@@ -19,8 +19,7 @@ Estimative budget: Free
 Proposed partners: Nobody
 
 Contact person:
-- Ilias
-- Iangurazov
+- Ilias Iangurazov
 - ilias.iangurazov@iaau.edu.kg
 - +996709911300
 
