@@ -1,0 +1,38 @@
+.number {
+    -fx-background-color: #fff;
+    -fx-border-color: #000;
+}
+
+.number:hover {
+    -fx-background-color: #e6e6e6;
+}
+
+.number:pressed {
+    -fx-background-color: #fff;
+}
+
+.operation {
+    -fx-background-color: #ccc;
+    -fx-border-color: #000;
+}
+
+.operation:hover {
+    -fx-background-color: #b3b3b3;
+}
+
+.operation:pressed {
+    -fx-background-color: #ccc;
+}
+
+.clear {
+    -fx-background-color: #000;
+    -fx-border-color: #000;
+}
+
+.clear:hover {
+    -fx-background-color: #333333;
+}
+
+.clear:pressed {
+    -fx-background-color: #000;
+}
